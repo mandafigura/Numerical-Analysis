@@ -15,4 +15,4 @@
 * *Linear Algebra (Schaum Collection)*. Seymour Lipschutz
 
 ## Repository objective
-This repository intends to make public the main numerical algorithms implemented during my Applied Linear Algebra course. They are direct and iterative methods. Also some explanation and examples on the algorithms may be presented.
+This repository intends to make public the main numerical algorithms implemented during my Applied Linear Algebra course using `MATLAB`. They are direct and iterative methods. Also some explanation and examples on the algorithms may be presented.
